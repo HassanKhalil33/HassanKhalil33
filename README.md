@@ -4,7 +4,7 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="animation.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **different projects**
 
