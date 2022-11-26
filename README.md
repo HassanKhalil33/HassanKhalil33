@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **different projects**
 
-- 📫 How to reach me **Hassan.Khalil.33@Hotmail.com**
+- 📫 How to reach me **hassan.khalil.dev@gmail.com**
 
-- ⚡ Fun fact **There are around 700 separate programming languages**
+- ⚡ Fun fact **Did you know, there are around 700 different programming languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
